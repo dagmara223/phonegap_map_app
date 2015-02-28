@@ -6,6 +6,10 @@
 /Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/com/phonegap/helloworld/R$string.class \
 /Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/com/phonegap/helloworld/R$xml.class \
 /Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/com/phonegap/helloworld/R.class \
+/Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/com/plugin/gcm/CordovaGCMBroadcastReceiver.class \
+/Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/com/plugin/gcm/GCMIntentService.class \
+/Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/com/plugin/gcm/PushHandlerActivity.class \
+/Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/com/plugin/gcm/PushPlugin.class \
 /Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/org/apache/cordova/networkinformation/NetworkManager$1.class \
 /Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/org/apache/cordova/networkinformation/NetworkManager.class \
 /Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/pl/dagmarazawada/d_app/BuildConfig.class \
@@ -17,9 +21,13 @@
 /Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/pl/dagmarazawada/d_app/R.class \
 /Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/pl/dagmarazawada/d_map_app/BuildConfig.class \
 /Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/pl/dagmarazawada/d_map_app/CordovaApp.class \
+/Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/pl/dagmarazawada/d_map_app/Manifest$permission.class \
+/Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/pl/dagmarazawada/d_map_app/Manifest.class \
 /Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/pl/dagmarazawada/d_map_app/R$attr.class \
 /Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/pl/dagmarazawada/d_map_app/R$drawable.class \
 /Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/pl/dagmarazawada/d_map_app/R$string.class \
 /Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/pl/dagmarazawada/d_map_app/R$xml.class \
 /Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/classes/pl/dagmarazawada/d_map_app/R.class \
 /Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/dexedLibs/classes-6c1008325012dfd6e4274080d93fc5af.jar \
+/Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/dexedLibs/gcm-523a1f4eb07fae14e7ba137a69c43bdd.jar \
+/Users/dagmara/_phonegap/my-app3/platforms/android/ant-build/dexedLibs/android-support-v13-f2f152b0024170915b6df2477ded2ab0.jar \
