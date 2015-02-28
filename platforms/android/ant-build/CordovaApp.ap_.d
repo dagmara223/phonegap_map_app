@@ -59,7 +59,6 @@
 /Users/dagmara/_phonegap/my-app3/platforms/android/assets/www/jquery-mobile/images/icons-36-black.png \
 /Users/dagmara/_phonegap/my-app3/platforms/android/assets/www/jquery-mobile/images/icons-36-white.png \
 /Users/dagmara/_phonegap/my-app3/platforms/android/assets/www/js/index.js \
-/Users/dagmara/_phonegap/my-app3/platforms/android/assets/www/js/json2.js \
 /Users/dagmara/_phonegap/my-app3/platforms/android/assets/www/node_modules/node-gcm \
 /Users/dagmara/_phonegap/my-app3/platforms/android/assets/www/node_modules/node-gcm/index.js \
 /Users/dagmara/_phonegap/my-app3/platforms/android/assets/www/node_modules/node-gcm/lib \
