@@ -39,23 +39,16 @@
     <div data-role="navbar">
       <ul>
         <li><a href="#startPage" data-transition="none" data-icon="home">Home</a></li>
-        <li><a href="#secondPage" data-transition="none" data-icon="plus">Page</a></li>
+        <li><a href="#mapPage" data-transition="none" data-icon="plus">Map Page</a></li>
         <li><a href="#thirdPage" data-transition="none" data-icon="star">Another Page</a></li>
       </ul>
     </div>
   </div>
  
   <div data-role="content">
-    <p>Welcome to the my <em>esri</em> app. Internet Access must be turned on for map to work. App alerts info about: internet connection and mobile location and shows your mobile location on map.</p><em>dagmara</em>
+    <p>Welcome to the my <em>esri map</em> app. Internet Access must be turned on for map to work. App alerts info about: internet connection and mobile location and tracks your device location on map.</p><em>dagmara</em>
    
-    <button id="home_network_button" data-icon="check">Internet Access is ON</button>
-    <button id="show_on_map_button" data-icon="check">Show my location on map</button>
-    <!--
-    <button id="home_clearstorage_button">Clear local storage</button>
-    <button id="home_seedgps_button">Load Seed GPS Data</button>
-    -->
-
-    <div id="map"></div>
+    <button id="home_network_button" data-icon="info"> check internet status?</button>
 
     
   </div>
@@ -66,39 +59,32 @@
 <!-- end of startPage -->
 
 
-<!-- secondPage -->
+<!-- mapPage -->
 
-<div data-role="page" id="secondPage">
+<div data-role="page" id="mapPage">
  
   <div data-role="header">
-    <h1>Track Workout</h1>
+    <h1>my esri app v0.3</h1>
      
     <div data-role="navbar">
       <ul>
         <li><a href="#startPage" data-transition="none" data-icon="home">Home</a></li>
-        <li><a href="#secondPage" data-transition="none" data-icon="plus">Track Workout</a></li>
-        <li><a href="#thirdPage" data-transition="none" data-icon="star">History</a></li>
+        <li><a href="#mapPage" data-transition="none" data-icon="plus">Map Page</a></li>
+        <li><a href="#thirdPage" data-transition="none" data-icon="star">Another Page</a></li>
       </ul>
     </div>
   </div>
  
   <div data-role="content"> 
-    <p id="startTracking_status"></p>
-      <div data-role="fieldcontain" class="ui-hide-label">
-        <label for="track_id">Track ID/Name:</label>
-        <input type="text" name="track_id" id="track_id" placeholder="Workout ID/Name"/>
-      </div>
- 
-    <button data-role="button" id="startTracking_start">Start Tracking</button>
-    <button data-role="button" id="startTracking_stop">Stop Tracking</button>  
-     
-        <p id="startTracking_debug"></p>
+    
+    <button id="show_on_map_button" data-icon="location">show my location on map</button>
+    <div id="map"></div>
          
   </div>
  
 </div>
 
-<!-- end of secondPage -->
+<!-- end of mapPage -->
 
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
